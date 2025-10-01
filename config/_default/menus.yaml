@@ -1,0 +1,49 @@
+leftnav:
+- identifier: 84f14429-5355-41a8-955e-97a046c0581a
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4ece82a8-c228-42fd-a41e-28da1712df2f
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 1858fe12-c046-45ae-ac77-3750f0130db6
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: e89e2633-dec3-43d5-9a9f-460ba9bf2381
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 47478f3f-82d2-4bfb-8fea-188f063d2528
+  name: Lecture Notes
+  pageRef: /lists/lecture-notes
+  weight: 50
+- identifier: 44281c1f-6b14-4b1a-b593-723f96b0cdce
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 60
+- identifier: b0c6d06d-639c-43cb-98b0-ad3da2d9e948
+  name: Essays
+  pageRef: /pages/essays
+  weight: 70
+- identifier: f6c5638e-e9c8-49f0-87d4-bfed19acd4f7
+  name: Paper 1
+  pageRef: /pages/essay-1
+  parent: b0c6d06d-639c-43cb-98b0-ad3da2d9e948
+  weight: 10
+- identifier: 81e7bf05-e342-4599-b2a8-44f76fba2c43
+  name: Paper 2
+  pageRef: /pages/essay-2
+  parent: b0c6d06d-639c-43cb-98b0-ad3da2d9e948
+  weight: 20
+- identifier: cbe8b9d8-448e-457e-90dc-c6e71fd7c858
+  name: Paper 2 Revision
+  pageRef: /pages/essay-2-revision
+  parent: b0c6d06d-639c-43cb-98b0-ad3da2d9e948
+  weight: 30
+- identifier: 6cddd6a0-111c-4b7d-8743-10397ab6b795
+  name: Paper 3
+  pageRef: /pages/essay-3
+  parent: b0c6d06d-639c-43cb-98b0-ad3da2d9e948
+  weight: 40
